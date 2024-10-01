@@ -9,3 +9,4 @@ The Power BI dashboard provides a comprehensive analysis of credit card transact
 # Screenshots
 ![Credit Card Financial Dashboard-Transaction](https://github.com/user-attachments/assets/b0e854b5-11ff-462a-a902-40b05a5c3001)
 
+![Credit Card Financial Dashboard-Customer](https://github.com/user-attachments/assets/27a014a8-2f41-441a-baa6-ae927e37ae67)
